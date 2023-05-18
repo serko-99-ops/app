@@ -1,5 +1,6 @@
 #--------------------------------------------------------------
 # Lambda@Edge Function to Ask Password for access to CLoudFront
+# Python Lambda Edge Function to Password Protect access to CloudFront
 # Python 3.8
 # Lambda@Edge to be created in US-EAST-1 ONLY!
 # Developed by SK
